@@ -1,7 +1,18 @@
-# my-first-webpage
+# My First Webpage
 
-Epicodus lesson: Intro to Programming Git, HTML and CSS HTML: Inline Elements
+#### HTML Exercise for Epicodus, 02.26.2019
 
-This lesson can be found
-[here](https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/html-inline-elements)
+#### By Alex Martinez
 
+## Description
+
+_This is a simple exercise to demonstrate the authors' understanding and ability to complete basic HTML tasks_.
+
+## Setup/Requirements
+
+* _Clone this GitHub repository_
+* _Open HTML file with a HTML browser_
+
+
+
+Copyright (c) 2019 **_Alex Martinez, Jeff Patterson_**
